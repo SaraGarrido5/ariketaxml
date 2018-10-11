@@ -33,7 +33,7 @@ public class GestionListaEnMemoria {
 
 
     
-    //PRUEBA DE COMIT
+    //PRUEBA DE COMIT 2 para ver si va
     public static ObservableList<Person> cargarDatos(File f) throws ParserConfigurationException, SAXException {
         //sartzen ditu taulan datuak 
 
