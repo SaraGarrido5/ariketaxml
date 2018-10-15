@@ -41,6 +41,7 @@ public class MainWindow extends Application{
     final HBox hb = new HBox();
     File f;
     
+    
     public void start(Stage stage) throws ParserConfigurationException, SAXException {
        Scene scene = new Scene(new Group());
         FileChooser fileChooser = new FileChooser();
